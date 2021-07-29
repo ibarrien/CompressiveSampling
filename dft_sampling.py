@@ -3,7 +3,7 @@ Demonstrate sparse recovery phenomena following
 Donoho-Candes-Romberg-Tao "DCRT" for a simple (real) Fourier setting.
 
 Specifically, try to reproduce 
-    Figure 2 in Candes-Waking 2008:
+    Figure 2 in Candes-Wakin 2008:
     https://authors.library.caltech.edu/10092/1/CANieeespm08.pdf
     Claims 100% reconstruction is possible in this case
     
